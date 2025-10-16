@@ -1,0 +1,7 @@
+version: '3.7'
+services:
+  ubuntu:
+    container_name: sai_baditha
+      #dockerfile: Dockerfile
+    image: ubuntu:latest
+    tty: true
